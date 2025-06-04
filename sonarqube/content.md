@@ -99,4 +99,4 @@ docker run --stop-timeout 3600 %%IMAGE%%
 
 ## Administration
 
-Information about administering your instance of SonarQube Server begins [here](https://docs.sonarsource.com/sonarqube-server/latest/instance-administration/server-base-url/).
+Information about administering your instance of SonarQube Server begins [here](https://docs.sonarsource.com/sonarqube-server/latest/instance-administration/overview/).
